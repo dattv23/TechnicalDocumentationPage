@@ -87,6 +87,9 @@ html {
 
     #navbar.mobile {
         position: unset;
-        width: 100%;
+    }
+
+    #main-doc.mobile {
+        display: none;
     }
 }
