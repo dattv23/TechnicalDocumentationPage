@@ -93,6 +93,9 @@ html {
 
     #navbar.mobile ul {
         border: 1px solid;
+        height: 207px;
+        margin: 16px 0px;
+        overflow: auto;
     }
 
     #main-doc.mobile {
